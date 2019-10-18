@@ -1,5 +1,5 @@
 # spa_test
-ashrap.github.io <a href="ashrap.github.io"><b>DEMO</b></a>
+ashrap.github.io <a href="http://ashrap.github.io"><b>DEMO</b></a>
 
 ++ <b>SPA</b></br>
 ++ <b>VueJS</b></br>
