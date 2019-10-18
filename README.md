@@ -8,8 +8,8 @@ ashrap.github.io <a href="http://ashrap.github.io"><b>DEMO</b></a>
 ++ <b>Webpack</b></br>
 ++ <b>WebSocket</b>
 
-<hr>
-<b>1 На первой странице компонент:</b></br></br>
+
+#<b>1 На первой странице компонент:</b></br></br>
 1.1 По <b>REST</b> забирает состояние по определенному символу с биржи binance ( limit=500 ) и отрисовывает состояние в формате:</br></br>
 Amount--Price--Total || Amount--Price--Total</br></br>
 Где левые три колонки относятся к ордерам типа Bid, правые к ордерам типа Ask. 
