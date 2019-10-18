@@ -1,6 +1,6 @@
 # spa_test
 ashrap.github.io <a href="http://ashrap.github.io"><b>DEMO</b></a>
-
+<hr>
 ++ <b>SPA</b></br>
 ++ <b>VueJS</b></br>
 ++ <b>VueRouter</b></br>
@@ -24,3 +24,4 @@ Price и Amount (Quantity) получаются из binance. Total рассчи
 <hr>
 <b>3 Верстка резиновая и адаптивная для мобилки и десктопа.</b></br></br> 
 В мобильной версии отображаются только колонки с Price и Amount. Где левые две колонки относятся к ордерам типа Bid, правые к ордерам типа Ask. 
+<hr>
